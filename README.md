@@ -9,8 +9,6 @@ This model has been built for James on a small subset of flowers (Iris) as an ex
 * Export them to Event Decorators
 * Export them to Potpourri Businesses
 
-**You can find the detailed story on my blog**
-https://subhralina.medium.com/iris-dataset-but-make-it-interesting-f8857190c8d6
 
 # EDA
 Here are some plots and graphs from the EDA notebook.
