@@ -24,7 +24,7 @@ The accuracy came out to be 98%, with good precision and recall values
 # Conclusion
 How does this model help James?
 
-It helps in the followinf ways:
+It helps in the following ways:
 * Reduce manual task to identify segregate flowers as it is cumbersome to compare dimensions each time
 * Reduce wastage as flowers would be categorized into proper categories
 
